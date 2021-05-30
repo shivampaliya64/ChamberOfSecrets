@@ -1,0 +1,3 @@
+installed dependencies.
+set up mongoose server at mongoDB atlas
+create Router posts(Does the calling part), and Controller posts(holds the main contents)
